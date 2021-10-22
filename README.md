@@ -1,2 +1,2 @@
 # fallout
-a fallout style hacking game
+A fallout style hacking game created as a Rust exercise.
